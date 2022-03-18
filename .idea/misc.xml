@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/TT/AndroidStudioProjects/CameraView/app/src/main/res/drawable/background.xml" value="0.2703125" />
+        <entry key="..\:/Users/TT/AndroidStudioProjects/CameraView/app/src/main/res/drawable/ic_delete.xml" value="0.151" />
+        <entry key="..\:/Users/TT/AndroidStudioProjects/CameraView/app/src/main/res/drawable/ic_edit.xml" value="0.176" />
+        <entry key="..\:/Users/TT/AndroidStudioProjects/CameraView/app/src/main/res/drawable/ic_filter.xml" value="0.2703125" />
+        <entry key="..\:/Users/TT/AndroidStudioProjects/CameraView/app/src/main/res/drawable/ic_image.xml" value="0.151" />
+        <entry key="..\:/Users/TT/AndroidStudioProjects/CameraView/app/src/main/res/drawable/ic_photo.xml" value="0.2703125" />
+        <entry key="..\:/Users/TT/AndroidStudioProjects/CameraView/app/src/main/res/drawable/ic_share.xml" value="0.2703125" />
+        <entry key="..\:/Users/TT/AndroidStudioProjects/CameraView/app/src/main/res/drawable/ic_switch.xml" value="0.2703125" />
+        <entry key="..\:/Users/TT/AndroidStudioProjects/CameraView/app/src/main/res/drawable/ic_video.xml" value="0.2703125" />
+        <entry key="..\:/Users/TT/AndroidStudioProjects/CameraView/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/TT/AndroidStudioProjects/CameraView/app/src/main/res/layout/activity_picture.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/TT/AndroidStudioProjects/CameraView/app/src/main/res/menu/share.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/TT/AndroidStudioProjects/CameraView/app/src/main/res/xml/filepaths.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
